@@ -1,0 +1,5 @@
+
+1-infrastructure/.terraform/providers/registry.terraform.io/hashicorp/aws/4.8.0/linux_amd64/terraform-provider-aws_v4.8.0_x5
+2-platform/.terraform/providers/registry.terraform.io/hashicorp/aws/4.8.0/linux_amd64/terraform-provider-aws_v4.8.0_x5
+*.hcl
+3-application/.DS_Store
